@@ -1,0 +1,2 @@
+# AMPL
+Aprendiendo AMPL
