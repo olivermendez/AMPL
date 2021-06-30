@@ -1,0 +1,9 @@
+# limpiar el entorno
+reset;
+
+model file.mod;
+data file.dat;
+Expand Porfit, Restricciones;
+solve;
+
+display X, Porfit;
